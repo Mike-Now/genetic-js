@@ -6,6 +6,9 @@
   "scripts": {
     "test": "make check"
   },
+  "dependencies": {
+      "q": "1.3.0"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/subprotocol/genetic-js"

@@ -1,5 +1,5 @@
 
-// var require=patchRequire(require);
+var require=patchRequire(require);
 var Genetic=require('./lib/genetic')
 var Q = require('q');
 var genetic = Genetic.create();
